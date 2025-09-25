@@ -37,3 +37,6 @@ Además, se implementa **Dependency Injection con GetIt**.
 
 
 Se agrega evidencia del funcionamiento de la app
+
+https://github.com/user-attachments/assets/4cdc5a55-eac5-4683-a6c9-e34a00c09b5b
+
