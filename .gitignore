@@ -1,0 +1,58 @@
+
+# FVM Version Cache
+.fvm/
+
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+flutter_*.png
+coverage/
+*.g.dart
+
+# IntelliJ / Android Studio
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Android
+.gradle/
+local.properties
+**/android/app/release/
+**/android/key.properties
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/ephemeral/
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Xcode
+*.xcworkspace
+*.xcuserdata/
+*.xcuserstate
+*.lock
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Symbolication / crash logs
+app.*.symbols

@@ -1,0 +1,26 @@
+name: user_addresses_app
+description: Flutter app with Riverpod, Clean Architecture and SQLite example
+publish_to: 'none'
+version: 0.0.1
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_riverpod: ^2.3.6
+  sqflite: ^2.2.8+4
+  path_provider: ^2.0.14
+  path: ^1.8.3
+  uuid: ^3.0.7
+  intl: ^0.18.0
+  get_it: ^7.6.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  mocktail: ^1.0.3
+
+flutter:
+  uses-material-design: true
